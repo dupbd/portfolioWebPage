@@ -8,13 +8,17 @@
 	margin-left: 100px;
 	margin-top: 0px;
 	margin-bottom: 50px;
-	
+}
 
-	}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%)
+    }
 	
 	
 body {
-	background-image: url("background.jpg") !important;
+	background-image: url("back1.jpg") !important;
 	overflow: auto;
 	}
 	
