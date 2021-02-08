@@ -1,0 +1,16 @@
+#resume {
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.card {
+	margin-left: 220px;
+	margin-top: 0px
+	}
+	
+	
+body {
+	background-color: gray;
+	overflow: auto;
+	}
