@@ -39,19 +39,19 @@
 
 
 <div id="cards">
-<div class="card" style="width: 18rem; float: left">
+<div class="card" style="width: 18rem; float: right">
   <img src="Logo-Twitter.jpg" class="card-img-top" alt="Twitter Clone">
   <div class="card-body">
     <p class="card-text"><a href="https://github.com/dupbd/fakeTwitter">Twitter Clone</a></p>
   </div>
 </div>
-<div class="card" style="width: 18rem; float: left">
+<div class="card" style="width: 18rem; float: right">
   <img src="covid3.jpg" class="card-img-top" alt="..." style="height: 200px;">
   <div class="card-body">
     <p class="card-text"><a href="https://github.com/dupbd/covidTracker">Coronavirus Tracking App</a></p>
   </div>
 </div>
-<div class="card" style="width: 18rem; float: left">
+<div class="card" style="width: 18rem; float: right">
 	<img src="brickbreak.jpeg" class="card-img-top" alt="..." style="height: 200px;">
 	<div class="card-body">
 		<p class="card-text"><a href="https://github.com/dupbd/brickBreaker">Brick Breaker Game</a></p>

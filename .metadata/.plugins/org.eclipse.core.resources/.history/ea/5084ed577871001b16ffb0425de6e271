@@ -5,10 +5,11 @@
   
 }
 .card {
-	margin-left: 150px;
+	margin-left: 240px;
 	margin-top: 0px;
 	margin-bottom: 50px;
-	}
+	margin-right:240px;
+}
 
 
 .navbar-nav.navbar-center {

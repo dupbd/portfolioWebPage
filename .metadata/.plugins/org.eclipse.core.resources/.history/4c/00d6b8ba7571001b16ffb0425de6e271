@@ -5,11 +5,16 @@
   
 }
 .card {
-	margin-left: 150px;
+	margin-left: 100px;
 	margin-top: 0px;
 	margin-bottom: 50px;
-	}
-
+}
+.cards {
+	display: block;
+  	margin-left: auto;
+	margin-right: auto;
+  	width: 40%;
+}
 
 .navbar-nav.navbar-center {
     position: absolute;

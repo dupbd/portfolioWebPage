@@ -33,7 +33,7 @@
 
 <img class="me" src="me.jpeg" alt="It's Me" width="425" height="600" style="margin:20px; float:right;">
 
-<p class="aboutme" style="margin:20px; font-size: 18px;">Hey! My name is Ben Dupont, I am a software developer located in Asheville, NC.
+<p class="aboutme" style="margin:20px; font-size: 20px;">Hey! My name is Ben Dupont, I am a software developer located in Asheville, NC.
 The main language and tools I work with are Java and the Spring Framework to make web pages and applications. 
 I am also comfortable using HTML5, CSS3, and JS. I have a working knowledge of Python, C++, and SQL. 
 <br><br>I am originally from Winston-Salem, NC but moved to Pennsylvania for High School and Arizona for College. In AZ I went to 

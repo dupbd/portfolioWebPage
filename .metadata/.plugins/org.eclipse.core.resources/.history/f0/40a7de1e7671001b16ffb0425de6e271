@@ -39,7 +39,7 @@
 
 
 <div id="cards">
-<div class="card" style="width: 18rem; float: left">
+<div class="card" style="width: 18rem; float: left; row justify-content-center">
   <img src="Logo-Twitter.jpg" class="card-img-top" alt="Twitter Clone">
   <div class="card-body">
     <p class="card-text"><a href="https://github.com/dupbd/fakeTwitter">Twitter Clone</a></p>
