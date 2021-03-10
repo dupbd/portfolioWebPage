@@ -1,9 +1,11 @@
-
+.flex-container{
+	display: flex;
+	justify-content: center;
+	}
 
 .card {
-	margin-left: 150px;
-	margin-top: 0px;
-	margin-bottom: 50px;
+	margin: 40px;
+	
 	
 	}
 
