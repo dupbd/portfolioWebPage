@@ -1,0 +1,40 @@
+
+
+.cards {
+	justify-content: center !important;
+	align-items: center !important;
+}
+
+collapse navbar-collapse {
+	
+    left: 50%;
+    transform: translatex(-50%)
+    }
+	
+	
+body {
+	background-image: url("background2.jpg") !important;
+	overflow: auto;
+	}
+	
+.jumbotron {
+	background: none !important;
+	margin-bottom: 0px !important;
+	}
+	
+.lead {
+	color: lightgrey;
+	}
+	
+.display-4 {
+	color: white;
+	}
+	
+.aboutme {
+	color: lightgrey;
+	margin-left: 15px;
+	}
+	
+.card-body {
+	background-color: lightgrey !important;
+	}
